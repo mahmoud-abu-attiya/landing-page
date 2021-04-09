@@ -198,7 +198,7 @@ body{font-family: 'Open Sans', sans-serif;}
 }
 .skills .skills-box .skills-progress{
     height:20px;
-    width:calc(100% - 110px);/*testtttt*/
+    width:100%;/*testtttt*/
     background-color:var(--main--overlay);
     border-radius:5px;
     position:relative;
@@ -209,7 +209,7 @@ body{font-family: 'Open Sans', sans-serif;}
     left:0;
     top:0;
     height:100%;
-    width:50%;
+    width:0px;
     background-color:var(--main--color);
     border-radius:3px;
 }
